@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Convert app");
-
+        System.out.println("Version 1.0");
         double kg = 5;
         double pnds = 14;
         double pound = getConvK(kg);
